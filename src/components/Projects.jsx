@@ -7,10 +7,7 @@ const Projects = () => {
       <div className="containproject">
         <h1 id="hproject">Project</h1>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor,
-          facere blanditiis reprehenderit nostrum nam nobis ratione? Veritatis
-          assumenda vero asperiores, amet soluta eius ipsa aspernatur culpa
-          possimus facilis expedita aut.
+          My name is Ranveer Singh Krnawat
         </p>
         <div className="boxcontainerp">
           <div className="boxp">
