@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(249, 243, 243);
+}
+#head {
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  /* Add these styles to center the content and position LeftScroll on the left */
+  .flexing {
+    display: flex;
+    justify-content: space-between; /* Align items to the space between (LeftScroll on the left) */
+    /* align-items: center; Center items vertically */
+    height: 100vh; /* Full height of the viewport */
+    padding: 20px; /* Add padding as needed */
+  }

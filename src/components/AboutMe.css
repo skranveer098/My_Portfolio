@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(249, 243, 243);
+}
+.contain {
+    text-align: center;
+    margin-top: 20px; /* Adjust as needed */
+    width: 85vw;
+    margin-left: 15vw;
+  }
+  #habout
+  {
+    color: black;
+  }
+  
+  /* Add these styles to center the content and position LeftScroll on the left */
+  .flexabout {
+    display: flex;
+    justify-content: space-between; /* Align items to the space between (LeftScroll on the left) */
+    /* align-items: center;  */
+    height: 100vh; /* Full height of the viewport */
+    padding: 20px; /* Add padding as needed */
+  }
