@@ -1,6 +1,7 @@
 import React from 'react';
 
 const RecipeCard = (props) => {
+
   return (
     <div className="card">
       <div className="content">

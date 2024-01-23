@@ -17,10 +17,17 @@
     border-radius: 30px;
     background: linear-gradient(145deg, #1f1919, #241e1e);
     box-shadow: 13px 13px 40px #0e0b0b, -13px -13px 40px #362d2d;
+
+    p{
+        font-size: 18px;
+        margin-left: 80px;
+        margin-right: 50px;
+    }
 }
 
 #hskills {
     color: white;
+    font-size: 35px;
 }
 
 .flexskills {

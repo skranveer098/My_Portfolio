@@ -18,10 +18,19 @@
 background: linear-gradient(315deg, #e6e6e6, #ffffff);
 box-shadow:  -18px -18px 36px #dedede,
              18px 18px 36px #ffffff;
+
+             p{
+              margin-left: 60px;
+              margin-right: 20px;
+              font-size: 18px;
+              font-weight: 600;
+              margin-bottom: 30px;
+             }
 }
 
 #hproject {
   color: rgb(0, 0, 0);
+  font-size: 45px;
 }
 
 .flexproject {

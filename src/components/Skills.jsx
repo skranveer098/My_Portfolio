@@ -11,7 +11,9 @@ const Skills = () => {
     <div className="flexskills" style={{backgroundColor:"rgb(34, 28, 28)"}}>
       <div className="containskills" style={{ color: "white", backgroundColor: "#221c1c" }}>
         <h1 id="hskills" style={{ color: "white" }}>Skills</h1>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, facere blanditiis reprehenderit nostrum nam nobis ratione? Veritatis assumenda vero asperiores, amet soluta eius ipsa aspernatur culpa possimus facilis expedita aut.</p>
+        <p>Myself Ranveer Singh Karnawat from Rajasthan. I am interested in the domain of
+Web and Software Developer with experience in tech Stacks like ReactJS . Proven track record in my projects. Seeking a challenging role to leverage technical expertise.
+</p>
         <div className='boxcontainer'>
           <div className='box'>
             <FaHtml5 size='50%'/>

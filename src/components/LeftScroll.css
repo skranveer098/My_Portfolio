@@ -1,10 +1,10 @@
 .container {
     position: fixed;
-    width: 15vw;
+    width: 20vw;
     height: 100vh;
     top: 0;
     left: 0;
-    background-color: blueviolet;
+    background:linear-gradient(to bottom, #616161, #9bc5c3);;
     overflow-y: auto; /* Enable scrolling if content exceeds container height */
 }
 
