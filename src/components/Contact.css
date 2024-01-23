@@ -152,7 +152,8 @@ body{
     }
   
     .contact_section {
-      width: 1042px;
+      width: 982px;
+      margin-left: 260px;
     }
     .user_form {
       width: 80%;

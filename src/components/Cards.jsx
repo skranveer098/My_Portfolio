@@ -34,7 +34,7 @@ const RecipeCard = (props) => {
                 <p className="title">
                   <strong>{props.name}</strong>
                 </p>
-                <svg
+                {/* <svg
                   fillRule="nonzero"
                   height="15px"
                   width="15px"
@@ -47,7 +47,7 @@ const RecipeCard = (props) => {
                       <path d="M25,27l-9,-6.75l-9,6.75v-23h18z"></path>
                     </g>
                   </g>
-                </svg>
+                </svg> */}
               </div>
               <p className="card-footer"><a href={props.github}><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="10px" height="10px" alt="" /></a> &nbsp; | &nbsp; {props.techStack}</p>
             </div>

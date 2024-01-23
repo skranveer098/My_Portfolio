@@ -22,10 +22,9 @@ const Contact = (props) => {
         <div className="contact_container">
           <div className="form_container_left">
             <div className="user_form">
-              <ToastContainer />
               <form
                 className="user_message_form"
-                action="https://formspree.io/f/xeqyovjw"
+                action="https://formspree.io/f/xvoezkal"
                 method="post"
               >
                 <h3>

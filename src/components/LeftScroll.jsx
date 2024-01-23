@@ -49,35 +49,35 @@ const LeftScroll = () => {
         <nav className="headings">
           <h1
             data-id="section1"
-            style={{ fontSize: currentSection === 'section1' ? '2rem' : '1em' }}
+            style={{ fontSize: currentSection === 'section1' ? '3rem' : '2em' }}
             onClick={() => scrollToSection('section1')}
           >
             Home
           </h1>
           <h1
             data-id="section2"
-            style={{ fontSize: currentSection === 'section2' ? '2rem' : '1em' }}
+            style={{ fontSize: currentSection === 'section2' ? '3rem' : '2em' }}
             onClick={() => scrollToSection('section2')}
           >
             About Me
           </h1>
           <h1
             data-id="section3"
-            style={{ fontSize: currentSection === 'section3' ? '2rem' : '1em' }}
+            style={{ fontSize: currentSection === 'section3' ? '3rem' : '2em' }}
             onClick={() => scrollToSection('section3')}
           >
             Skills
           </h1>
           <h1
             data-id="section4"
-            style={{ fontSize: currentSection === 'section4' ? '2rem' : '1em' }}
+            style={{ fontSize: currentSection === 'section4' ? '3rem' : '2em' }}
             onClick={() => scrollToSection('section4')}
           >
             Projects
           </h1>
           <h1
             data-id="section5"
-            style={{ fontSize: currentSection === 'section5' ? '2rem' : '1em' }}
+            style={{ fontSize: currentSection === 'section5' ? '3rem' : '2em' }}
             onClick={() => scrollToSection('section5')}
           >
             Contact

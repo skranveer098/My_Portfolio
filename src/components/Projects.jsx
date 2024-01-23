@@ -1,7 +1,7 @@
 import React from "react";
 import "./projects.css";
 import Cards from "./Cards.jsx";
-import image1 from "./phots/Screenshot (461).png";
+import image1 from "./phots/mys.png";
 
 const Projects = () => {
   return (
